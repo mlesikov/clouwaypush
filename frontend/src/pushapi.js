@@ -21,6 +21,7 @@ angular.module('clouway-push', [])
     };
 
     /**
+     * Some test changes
      * Set a method to call for opening of connection.
      * The method must return a promise.
      *
