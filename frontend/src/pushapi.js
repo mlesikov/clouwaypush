@@ -30,6 +30,7 @@ angular.module('clouway-push', [])
      */
     this.openConnectionMethod = function (method) {
       this.connectionMethods.connect = method;
+      var some = '';
       return this;
     };
 

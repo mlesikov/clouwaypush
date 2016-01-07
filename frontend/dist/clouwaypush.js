@@ -1,7 +1,7 @@
 /**
- * clouwaypush - 2015-12-26
+ * clouwaypush - 2016-01-07
  *
- * Copyright (c) 2015 clouWay ltd
+ * Copyright (c) 2016 clouWay ltd
  */
 (function ( window, angular, undefined ) {
 
@@ -28,6 +28,7 @@ angular.module('clouway-push', [])
     };
 
     /**
+     * Some test changes
      * Set a method to call for opening of connection.
      * The method must return a promise.
      *
@@ -36,6 +37,7 @@ angular.module('clouway-push', [])
      */
     this.openConnectionMethod = function (method) {
       this.connectionMethods.connect = method;
+      var some = '';
       return this;
     };
 

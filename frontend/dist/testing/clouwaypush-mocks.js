@@ -1,7 +1,7 @@
 /**
- * clouwaypush - 2015-12-26
+ * clouwaypush - 2016-01-07
  *
- * Copyright (c) 2015 clouWay ltd
+ * Copyright (c) 2016 clouWay ltd
  */
 (function ( window, angular, undefined ) {
 
