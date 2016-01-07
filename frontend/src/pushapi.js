@@ -23,7 +23,7 @@ angular.module('clouway-push', [])
     /**
      * Some test changes
      * Set a method to call for opening of connection.
-     * The method must return a promise.          1223423432313221
+     * The method must return a promise.          122342343231wqewewq3221
      *
      * @param {function(subscriber)} method method that will be called for opening of connection.
      * @returns {*} the provider instance for chaining purposes.
