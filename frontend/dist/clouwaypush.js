@@ -1,5 +1,5 @@
 /**
- * clouwaypush - 2016-01-07
+ * clouwaypush - 2016-01-08
  *
  * Copyright (c) 2016 clouWay ltd
  */
@@ -29,7 +29,7 @@ angular.module('clouway-push', [])
 
     /**
      * Some test changes
-     * Set a method to call for opening of connection.
+     * Set a method to call for opening of connection. dasdas
      * The method must return a promise.
      *
      * @param {function(subscriber)} method method that will be called for opening of connection.
