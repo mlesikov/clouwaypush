@@ -2,9 +2,6 @@
   "name": "clouwaypush",
   "version": "1.0",
   "license": "MIT",
-  "dependencies": {
-    "angular": "~1.4.6"
-  },
   "main": "frontend/dist/clouwaypush.js",
   "ignore": [
     "pom.xml",
