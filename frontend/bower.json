@@ -3,7 +3,7 @@
   "version": "1.0",
   "license": "MIT",
   "devDependencies": {
-    "angular-mocks": "~1.4.6",
+    "angular-mocks": "~1.4.8",
     "appengine-channel-api-stub": "~1.0.1",
     "angular": "~1.4.8"
   },
